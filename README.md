@@ -13,7 +13,7 @@ The purpose of this analysis is to determine the number of retiring employees pe
  
  ![graph 2](https://user-images.githubusercontent.com/67567087/154821925-9fc6495c-462c-4a83-9956-bb6712069515.PNG)
 ## Summary 
-The table we use to address the conclusion is below:
+The table I create to address the conclusions is below:
 
 ![table](https://user-images.githubusercontent.com/67567087/154822035-00becc7b-48e8-4c1d-983e-fe7574d72cca.PNG)
 
