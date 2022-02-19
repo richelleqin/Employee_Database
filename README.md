@@ -12,3 +12,6 @@ The purpose of this analysis is to determine the number of retiring employees pe
 - We find the most employees eligible for mentorship have between 23 to 29 years of experience. Also everyone eligible have over 20 years of experience. This means that the mentorship they provide will be more beneficial and come from a place of experience in the company.
  
  ![graph 2](https://user-images.githubusercontent.com/67567087/154821925-9fc6495c-462c-4a83-9956-bb6712069515.PNG)
+## Summary 
+- How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+    - If we assume the retirement age is 65, then there will need to be 93,409 roles that needs to be filled for the “silver tsunami”.
