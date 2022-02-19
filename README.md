@@ -13,5 +13,9 @@ The purpose of this analysis is to determine the number of retiring employees pe
  
  ![graph 2](https://user-images.githubusercontent.com/67567087/154821925-9fc6495c-462c-4a83-9956-bb6712069515.PNG)
 ## Summary 
-- How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-    - If we assume the retirement age is 65, then there will need to be 93,409 roles that needs to be filled for the “silver tsunami”.
+The table we use to address the conclusion is below:
+
+![table](https://user-images.githubusercontent.com/67567087/154822035-00becc7b-48e8-4c1d-983e-fe7574d72cca.PNG)
+
+- If we assume the retirement age is 65, then there will need to be 93,409 roles that needs to be filled for the “silver tsunami”.
+- There are 65,377 qualified, senior level, retirement ready employees in the departments to mentor the next generation of Pewlett Hackard employees. 
